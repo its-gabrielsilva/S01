@@ -14,3 +14,5 @@ segundos = horas * 7200
 Print " Horas analisadas: "; horas; " hora(s)"
 Print horas; " hora(s) = "; minutos; " minuto(s)"
 Print horas; " hora(s) = "; segundos; " segundo(s)"
+
+Sleep
