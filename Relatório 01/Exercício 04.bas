@@ -11,6 +11,6 @@ Input "Tempo gasto em minutos: "; tempo
 pace = tempo/km
 
 ' Mostrar o resultado do pace do corredor
-PRINT USING "Pace medio do corredor: #.## min/km"; pace
+Print using "Pace medio do corredor: #.## min/km"; pace
 
 Sleep
