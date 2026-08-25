@@ -8,7 +8,7 @@ input "Insira a quantidade de horas: "; horas
 
 ' Conversor de horas para minutos e segundos
 minutos = horas * 60
-segundos = horas * 7200
+segundos = horas * 3600
 
 ' Mostrar as horas analisadas e sua respectiva conversão para minutos e segundos
 Print " Horas analisadas: "; horas; " hora(s)"
