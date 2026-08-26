@@ -35,7 +35,7 @@ if N and N > 0 then
             return novaTabela
         end
 
-        -- Guradar o resultado da funcao
+        -- Guardar o resultado da funcao
         local maiores = filtrarMaiores(tabela, K)
 
         -- Mostrar os numeros maiores que o limite
